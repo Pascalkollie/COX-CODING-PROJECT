@@ -15,6 +15,12 @@ The goal here is to assess a basic comprehension of Terraform concepts by seeing
 some terraform code in github.com OR in an emailed zip file OR something similar
 screenshots of deployed assets from cloud-service webconsole OR temporary creds to log in and look around on your acct
 Given that your terraform code needs to be "applied" to instantiate the resources, I recommend frequently making sure that you can terraform plan and terraform apply during the process of making the material.
+
+# Requirmnet 
+To use the Certificate module. You need to own the domain you are creating certificate for.
+- Domain
+- Terraform 
+
 ```
 execute code in terminal 
 -----------------------------
